@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend API para aplicaçao 'To Be Hero'. Aplicativo de ajuda solidario para ONGs.",
+  "main": "index.js",
+  "author": "Rodrigo Venancio Verissimo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
